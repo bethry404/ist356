@@ -9,6 +9,7 @@
     "8501": { "label": "Streamlit" },
     "8000": { "label": "FastAPI" }
   },
+  "remoteUser": "root",
   "customizations": {
     "vscode": {
       "extensions": [
