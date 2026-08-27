@@ -1,5 +1,5 @@
 {
-  "name": "IST356 Course Content",
+  "name": "IST356",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspace",
