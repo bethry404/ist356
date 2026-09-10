@@ -13,6 +13,6 @@ def clear_click():
 
 # setup
 st.title("Streamlit Interaction: event-driven")
-name = st.text_input("Who are you?")
+name = st.text_input("Who are you?") # name variable is from the global scope
 st.button('Say Hi!', on_click=hi_click)
 st.button('Clear', on_click=clear_click)
