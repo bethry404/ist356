@@ -1,0 +1,13 @@
+delimeter 
+row usually a comma
+cell/item/field delimeter
+tsv == tab delimeter
+\n means enter key
+\t means tab key
+
+
+process vs reference
+students reference -- grades process
+look at data look at grain its created
+
+gpa is a summary of a process where you get a grade for a course and that's finality 
